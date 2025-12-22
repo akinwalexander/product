@@ -2,7 +2,7 @@ import ProductCard from './components/ProductCard.jsx';
 import './App.css';
 
 // Provide your first name here (or leave empty for "Hello, there!")
-const firstName = 'Jordan';
+const firstName = 'JEDA';
 
 export default function App() {
   return (

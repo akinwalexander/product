@@ -37,7 +37,7 @@ function ProductCard({ firstName }) {
                                     {firstName && (
                                         <div style={{ marginTop: '15px' }}>
                                             <img
-                                                src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=300&fit=crop"
+                                                src="https://media.licdn.com/dms/image/v2/D4D03AQHpah93-KPbmg/profile-displayphoto-shrink_200_200/B4DZYHfTmmHsAY-/0/1743882371518?e=1767830400&v=beta&t=MP1qJU7plxj-93dwf2RtFllX5HT3CT0Lc_HOyiUhhLk"
                                                 alt="Welcome"
                                                 style={{ borderRadius: '8px', maxWidth: '100%', height: 'auto', boxShadow: '0 4px 15px rgba(0,0,0,0.2)' }}
                                             />
